@@ -88,7 +88,7 @@ main{
     
 }
 .section-1{
-    height: 90%;
+    height: 100%;
     width : 100%;
     /* border : 1px solid black; */
     position: relative;
@@ -314,11 +314,6 @@ img{
     font-size : 14px;
     
    }
-
-* {
-  box-sizing: border-box;
-}
-
 .features-section {
   display: flex;
   align-items: center;
